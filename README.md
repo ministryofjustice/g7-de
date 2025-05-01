@@ -15,11 +15,11 @@ This can be found here: https://data.police.uk/docs/ under 'Stop and searches by
 We require the data for April 2024, May 2024 and June 2024 for the 'Derbyshire' police force.
 The code for the Derbyshire police force is 'derbyshire'.
 
-If you are unable to load this data for any reason, you can find a copy in `raw_data` as `03_stop_and_search.json`, `04_stop_and_search.json` and `05_stop_and_search.json`. Please retain any code you have written.
+If you are unable to load this data for any reason, you can find a copy in `raw_data` as `04_stop_and_search.json`, `05_stop_and_search.json` and `06_stop_and_search.json`. Please retain any code you have written.
 
 
 ### 2. Load the patrol data
-This is a static excel file stored in the repo at this location: `raw_data/derbyshire_patrol.xlsx`.
+This is a static excel file stored in the repo at this location: `raw_data/derbyshire_patrol_data.xlsx`.
 
 
 ### 3. Clean and filter the data.
